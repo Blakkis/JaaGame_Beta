@@ -1,1 +1,2 @@
-# JaaGame_Beta
+# This is the Beta version of the game
+
