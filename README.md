@@ -1,5 +1,7 @@
 # This is the Beta version of the game
 
+# There's an earlier versio of the game on video: https://www.youtube.com/watch?v=AYTkgtXdAsk 
+
 http://www.mediafire.com/file/cg61m3gk4am90nf/JaaGame_Beta.rar
 
 morrowind soundtrack.. well.. yeah..
