@@ -1,4 +1,4 @@
-# This is the Beta version of the game
+# This is the *Beta* version of the game
 
 # There's an earlier versio of the game on video: https://www.youtube.com/watch?v=AYTkgtXdAsk 
 
