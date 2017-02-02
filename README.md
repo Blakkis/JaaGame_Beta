@@ -1,5 +1,9 @@
 2.2.2017
   - There might some errors in the documentation readme.txt files
+  - You can try out the spells by opening the spell tab (key t by default) and assign two spells with keys 1 and 2
+  - The menus should use the user assigned keys aswell.(Annoying to switch between hardcoded and user defined keys)
+  - I left small part of the game out, which was before starting campaign it would allow the player to create a name for the character
+  since its disabled it assigns the player with the name 'default'
 
 # This is the bundled version of the game
 
