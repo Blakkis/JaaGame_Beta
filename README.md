@@ -1,3 +1,6 @@
+2.2.2017
+  - There might some errors in the documentation readme.txt files
+
 # This is the bundled version of the game
 
 # There's an earlier versio of the game on video: https://www.youtube.com/watch?v=AYTkgtXdAsk 
