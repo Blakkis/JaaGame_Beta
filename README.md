@@ -1,3 +1,4 @@
+Reddit link: https://www.reddit.com/r/pygame/comments/4py0oq/jaarpg_a_rpg_game/
 2.2.2017
   - There might some errors in the documentation readme.txt files
   - You can try out the spells by opening the spell tab (key t by default) and assign two active spells with keys 1 and 2
